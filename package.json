@@ -17,5 +17,10 @@
   "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/CloudAfrica/chatServer/issues"
+  },
+  "dependencies": {
+    "uuid": "~1.4.1",
+    "structure.js": "0.0.2",
+    "express": "~3.3.7"
   }
 }
