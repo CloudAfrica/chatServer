@@ -1,0 +1,21 @@
+{
+  "name": "chatserver",
+  "version": "0.0.1",
+  "description": "chat server for the angularjs workshop ",
+  "main": "chatServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CloudAfrica/chatServer"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "nVisionIT",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/CloudAfrica/chatServer/issues"
+  }
+}
